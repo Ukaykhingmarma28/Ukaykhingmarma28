@@ -30,9 +30,8 @@
 	<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 </div>
 
-<div>	
+<details>	
 <summary><b>Github Stats</b></summary>
 	<img alt="Ukaykhingmarma28/stats" src="https://github-readme-stats.vercel.app/api?theme=github_dark&amp;title_color=2EB398&amp;username=Ukaykhingmarma28&amp;count_private=true&amp;show_icons=true"/>
 	<img alt="Ukaykhingmarma28/graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ukaykhingmarma28&amp;theme=github_dark"/>
-	<img alt="Ukaykhingmarma28/streak" src="https://github-readme-streak-stats.herokuapp.com?user=Ukaykhingmarma28&amp;theme=dark&amp;hide_border=true&amp;background=1B2224&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB"/>
-</div>
+</details>
