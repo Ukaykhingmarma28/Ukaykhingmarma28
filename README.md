@@ -6,7 +6,7 @@
 ![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
 ![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
-<details>	
+<div>	
 <summary><b>My skills</b></summary>
 	<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 	<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -28,11 +28,11 @@
 	<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 	<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 	<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</details>
+</div>
 
-<details>	
+<div>	
 <summary><b>Github Stats</b></summary>
 	<img alt="Ukaykhingmarma28/stats" src="https://github-readme-stats.vercel.app/api?theme=github_dark&amp;title_color=2EB398&amp;username=Ukaykhingmarma28&amp;count_private=true&amp;show_icons=true"/>
 	<img alt="Ukaykhingmarma28/graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ukaykhingmarma28&amp;theme=github_dark"/>
 	<img alt="Ukaykhingmarma28/streak" src="https://github-readme-streak-stats.herokuapp.com?user=Ukaykhingmarma28&amp;theme=dark&amp;hide_border=true&amp;background=1B2224&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB"/>
-</details>
+</div>
